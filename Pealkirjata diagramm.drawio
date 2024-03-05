@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T09:03:22.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="kFZk19MVDC6JwLPdRvon" type="github">
+  <diagram name="Leht-1" id="09JlSqkLpbqh8TIppntq">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Product Backlog" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="15" width="130" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Sprint Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="19" y="84" width="123" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Sprint Backlog" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="22" y="167" width="117" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Daily Stand-up" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="251" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Sprint Review" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="335" width="113" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Sprint Retrospective" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="418" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5013221153846154;exitY=0.9901961158303654;entryX=0.4973323170731707;entryY=-0.00980388416963465;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4973323170731707;exitY=0.9803922316607308;entryX=0.49719551282051283;entryY=0.009803996366613051;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49719551282051283;exitY=1.0000001121969784;entryX=0.49724264705882354;entryY=1.1219697840073529e-7;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49724264705882354;exitY=0.9901962280273438;entryX=0.4970962389380531;entryY=-0.00980377197265625;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4970962389380531;exitY=0.9803923438577091;entryX=0.50107421875;entryY=0.009804108563591452;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
